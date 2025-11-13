@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+#add these to your gitignore
+*.duckdb
+*.wal
+
 # Distribution / packaging
 .Python
 build/
